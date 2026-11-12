@@ -2,7 +2,7 @@
 
 I'm a full-stack application developer and technology consultant based in London.
 
-Most of my professional development work lives in private enterprise repositories, so this is where I build personal projects, try out new technologies, and keep track of some of what I'm learning along the way.
+**Most of my professional development work lives in private enterprise repositories**, so this is where I build personal projects, try out new technologies, and keep track of some of what I'm learning along the way.
 
 I like understanding how the whole system fits together — not just writing the application, but how it's tested, deployed, secured and supported once it's running.
 
